@@ -1,2 +1,4 @@
+.gitignore
 .ipynb_checkpoints
-dataframe_tracker
+deep_tracker
+*.trk
